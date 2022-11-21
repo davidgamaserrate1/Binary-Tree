@@ -3,7 +3,7 @@ FINAL
 Professor: Diego P. Rubert
 Aluno :  David Gama Serrate
 RGA : 2019.1906.037-5
-
+Functions insere,escreve_ordenado, min, max, sucessor, predecessor, busca e remove
 */
 
 #include <cstdio>
